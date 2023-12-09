@@ -1,3 +1,15 @@
+# Give Up GitHub
+
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+
+You can now find this project at [https://codeberg.org/apicici/fmodstudio-luajit-ffi](https://codeberg.org/apicici/fmodstudio-luajit-ffi) instead.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
 # fmodstudio-luajit-ffi
 Pure Lua script to generate a LuaJIT FFI wrapper for the [FMOD Engine](https://fmod.com/) (studio and core api). The generator *should* work for any version of FMOD, but it has only been tested on version 2.02.
 
